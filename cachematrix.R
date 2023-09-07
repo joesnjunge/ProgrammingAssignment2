@@ -60,5 +60,3 @@ cacheSolve <- function(x, ...) {
 
   return(inversemat)
 }
-
-
